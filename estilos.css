@@ -1,0 +1,10 @@
+#boton{
+    width: 200 px;
+    height: 50 px;
+    background-color:#4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5 px;
+    cursor: pointer;
+    transition: background-color 0.55 ease; 
+    }
